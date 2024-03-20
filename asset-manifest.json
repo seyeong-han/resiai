@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/resiai/static/css/main.ae42ac5f.css",
+    "main.js": "/resiai/static/js/main.dc239aa0.js",
+    "index.html": "/resiai/index.html",
+    "main.ae42ac5f.css.map": "/resiai/static/css/main.ae42ac5f.css.map",
+    "main.dc239aa0.js.map": "/resiai/static/js/main.dc239aa0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.dc239aa0.js"
+  ]
+}
