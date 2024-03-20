@@ -1,0 +1,166 @@
+{
+    "Header": {
+        "title": "Home Renovations meet AI",
+        "paragraph": "Home Renovations, made simple, made transparent"
+    },
+    "About": {
+        "paragraph": "Why Resia",
+        "Why": [
+            {
+                "img": "img/why_resia/why1.png",
+                "title": "Project Visualization and Planning",
+                "text": "Leverage advanced AI to visualize projects and plan ahead, ensuring accuracy and client satisfaction."
+            },
+            {
+                "img": "img/why_resia/why2.png",
+                "title": "Direct Leads & Client Connection",
+                "text": "Connect directly with potential clients, expanding your business with quality leads tailored to your skills."
+            },
+            {
+                "img": "img/why_resia/why3.png",
+                "title": "Efficient Material Sourcing",
+                "text": "Access a network of suppliers for the best materials at competitive prices, including sustainable options for eco-conscious projects."
+            },
+            {
+                "img": "img/why_resia/why1.png",
+                "title": "Streamlined Project Management",
+                "text": "Manage your projects seamlessly from one platform, from initial client contact to final walkthrough."
+            }
+        ]
+    },
+    "Gallery": [
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/1.png",
+            "smallImage": "img/portfolio/1.png"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/6.png",
+            "smallImage": "img/portfolio/6.png"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/4.png",
+            "smallImage": "img/portfolio/4.png"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/5.png",
+            "smallImage": "img/portfolio/5.png"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/2.webp",
+            "smallImage": "img/portfolio/2.webp"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/3.webp",
+            "smallImage": "img/portfolio/3.webp"
+        }
+    ],
+    "Services": [
+        {
+            "icon": "fa fa-wordpress",
+            "name": "Maximize Property Value",
+            "text": "Utilizing Resia’s innovative tools, professionals can advise homeowners on strategic renovations that boost property value, backed by realistic visualizations and cost estimates, ensuring investments are wisely made."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Streamline Renovation Projects",
+            "text": "Resia simplifies the renovation process with integrated project management tools that connect real estate professionals with vetted contractors and suppliers, ensuring projects are completed efficiently and to client satisfaction."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Optimize Flipping Projects",
+            "text": "Resia transforms flipping projects by enabling professionals to visualize renovations before they begin, providing detailed ROI forecasts based on various renovation scenarios. This ensures informed decision-making and maximizes profitability on each flip."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Attract Eco-Conscious Buyers",
+            "text": "By focusing on sustainable renovation options, Resia helps real estate professionals appeal to a growing demographic of eco-conscious buyers, offering them green choices that align with their values."
+        }
+    ],
+    "Testimonials": [
+        {
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [
+        {
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "University of Texas at Austin",
+        "phone": "+1 972-363-6298",
+        "email": "clayhseifert@gmail.com"
+    },
+    "Features": [
+        {
+            "img": "img/features/features1.png",
+            "title": "Visualize",
+            "text": "Curious about what that next renovation project is going to look like? \n With our platform, simply drop in a couple inspiration photos, a few pictures of your existing space and let the magic happen."
+        },
+        {
+            "img": "img/features/features2.png",
+            "title": "Estimate",
+            "text": "Wondering how much that new kitchen is going to cost? \nWhen you produce a new project idea, we tell you how much it’ll cost.\n Not only that, we also calculate your predicted ROI, so you know what you get back."
+        },
+        {
+            "img": "img/features/features3.png",
+            "title": "Connect",
+            "text": "Not sure who to trust?\n Resia connects you with local contractors, with real experience. No more hassling with unknown contractors -- know who you’re working with from the get-go."
+        },
+        {
+            "img": "img/features/features4.png",
+            "title": "Track",
+            "text": "So, you’ve started your renovation project. But you have no idea what you contractor is up to. \n That’s why we’ve made a portal so you can track your renovation process, know where your materials are being sourced, and understand what the holdup is."
+        }
+    ]
+}
